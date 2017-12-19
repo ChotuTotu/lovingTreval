@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LoveTreval"
+  id="myeclipse.1513663184731"
+  context-root="/LoveTreval"
+  j2ee-spec="6.0"
+  archive="LoveTreval.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
